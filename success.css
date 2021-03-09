@@ -1,0 +1,11 @@
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #161616;
+    color: white;
+    align-items: center;
+    text-align: center;
+}
+
+h1 {
+    font-size: 10vw;
+}
